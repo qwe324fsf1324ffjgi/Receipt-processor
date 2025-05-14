@@ -3,7 +3,7 @@
 ````markdown
 # 🧾 AWS Lambda Receipt Processing System
 
-![Receipt Processing Diagram](https://i.ibb.co/Fb4L6Sm2/receipt-processing.png)
+
 
 
 ## 📌 Overview
@@ -13,6 +13,8 @@ This AWS Lambda function automates receipt processing using serverless component
 ---
 > 📽️ [Watch Demo Video]
 https://drive.google.com/file/d/1Ifse8lyQepcOBG2CWCR3Qbj8kF2N8HsD/view?usp=drive_link
+
+![Receipt Processing Diagram](https://i.ibb.co/Fb4L6Sm2/receipt-processing.png)
 
 ## 📂 Code Structure
 
