@@ -7,8 +7,6 @@ This AWS Lambda function automates receipt processing using serverless component
 > 📽️ [Watch Demo Video]
 https://drive.google.com/file/d/1Ifse8lyQepcOBG2CWCR3Qbj8kF2N8HsD/view?usp=drive_link
 
-Receipt Processing Diagram
-https://i.ibb.co/Fb4L6Sm2/receipt-processing.png
 
 ## 📂 Code Structure
 
@@ -108,9 +106,5 @@ def send_email_notification(receipt_data):
 
 This Lambda system enables a seamless pipeline for automated receipt extraction, structured storage, and real-time notification, using the power of AWS Textract, DynamoDB, and SES.
 
----
 
-```
-
----
 
